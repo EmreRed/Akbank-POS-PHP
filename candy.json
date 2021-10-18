@@ -1,0 +1,7 @@
+{
+    "name": "POS-PHP-Client",
+    "return": "Pos",
+    "autoload": [
+        "src/Pos.php"
+        ]
+}
