@@ -4,7 +4,7 @@ include('Pos.php') // For Pure PHP (You have to download the files first)
 
 Candy::plugin('EmreRed/POS-PHP-Client'); // For Candy PHP (No processing needed, you can use it directly. 😉)
 ```
-<a href="https://github.com/CandyPack/CandyPHP">Check out CandyPHP!</a>
+<a href="https://github.com/CandyPack/CandyPHP">🍭 Check out CandyPHP!</a>
 
 <hr>
 
