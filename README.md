@@ -1,2 +1,4 @@
-# Akbank-POS-PHP
-Sanalakpos PHP Client
+# POS-PHP-Client
+
+## Desteklenen POS API Servisleri
+ - Akbank
