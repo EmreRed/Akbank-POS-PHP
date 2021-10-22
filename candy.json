@@ -1,6 +1,5 @@
 {
     "name": "POS-PHP-Client",
-    "return": "Pos",
     "autoload": [
         "Pos.php"
     ]
